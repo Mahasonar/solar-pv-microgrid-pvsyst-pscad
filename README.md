@@ -39,11 +39,4 @@ The designed system was verified using PVSyst and modelled in PSCAD/EMTDC as a g
 - Microsoft Excel
 - PV system design calculations
 
-## Repository Structure
 
-```text
-report/      - Final project report
-pvsyst/      - PVSyst reports, screenshots, and project files
-pscad/       - PSCAD simulation files and input profiles
-results/     - Simulation output graphs
-docs/        - Datasheets and supporting documents
